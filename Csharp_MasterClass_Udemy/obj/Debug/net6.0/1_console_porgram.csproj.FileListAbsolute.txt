@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_console_porgram.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_console_porgram.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_console_porgram.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_console_porgram.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_console_porgram.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\refint\1_console_porgram.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_console_porgram.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\ref\1_console_porgram.dll

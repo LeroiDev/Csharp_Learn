@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_writingAndTestingBasics.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_writingAndTestingBasics.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_writingAndTestingBasics.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_writingAndTestingBasics.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\bin\Debug\net6.0\1_writingAndTestingBasics.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\refint\1_writingAndTestingBasics.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\1_writingAndTestingBasics.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\Csharp_MasterClass_Udemy\obj\Debug\net6.0\ref\1_writingAndTestingBasics.dll

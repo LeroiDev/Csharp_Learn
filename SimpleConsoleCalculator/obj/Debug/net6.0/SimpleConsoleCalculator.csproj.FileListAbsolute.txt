@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\bin\Debug\net6.0\SimpleConsoleCalculator.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\bin\Debug\net6.0\SimpleConsoleCalculator.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\bin\Debug\net6.0\SimpleConsoleCalculator.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\bin\Debug\net6.0\SimpleConsoleCalculator.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\bin\Debug\net6.0\SimpleConsoleCalculator.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\refint\SimpleConsoleCalculator.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\SimpleConsoleCalculator.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\SimpleConsoleCalculator\obj\Debug\net6.0\ref\SimpleConsoleCalculator.dll
