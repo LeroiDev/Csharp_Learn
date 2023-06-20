@@ -1,5 +1,6 @@
 ﻿using System.Net.NetworkInformation;
 using System.Xml.Serialization;
+using System.Collections.Generic;
 
 internal class Program
 {
@@ -14,9 +15,23 @@ internal class Program
         //program.QuickDoLoopPracticeAgain();
         //program.ForLoopPracticeOverview();
         //program.ForLoopFactoralPractice();
-        program.ArrayPractice();
+        //program.ArrayPractice();
+        //program.MultiDimensionalArraysPractice();
+        //program.TwoDimensionalChallengeUdemy();
+        //program.ForEachLoopPractice();
+        //program.TimeForListsCollectionPractice();
 
+        bool numberSuccess;
+        int userNumber;
+        
+        do
+        {
+            Console.WriteLine("Enter a number: ");
+            numberSuccess = int.TryParse(Console.ReadLine(), out userNumber);
 
+        } while (!numberSuccess);
+
+        Console.WriteLine($"User entered a valid number of {userNumber}");
 
 
 
@@ -37,6 +52,197 @@ internal class Program
         //}  
 
     }
+
+    void TimeForListsCollectionPractice()
+    {
+         List<string> GetOnlyUpperCaseWords(List<string> words)
+        {
+            List<string> UpperCaseList = new List<string>();
+            bool hasSpecialCharacters = false;
+            foreach(string word in words)
+            {
+                if (!(UpperCaseList.Contains(word)))
+                {
+                    foreach(char c in word)
+                    {
+                        if (!Char.IsLetter(c)){
+                            hasSpecialCharacters = true;
+                            break;
+                        }
+                    }
+                    if(!hasSpecialCharacters && (word == word.ToUpper()))
+                    UpperCaseList.Add(word);
+                }
+            }
+            return UpperCaseList;
+        }
+
+
+        //List<string> words = new List<string> { "one", "TWO", "THREE", "four" };
+        //List<string> words = new List<string> { "one", "TWO", "THREE", "TWO" };
+        List<string> words = new List<string> { "one", "TWO123", "THREE!&^", "four" };
+
+
+        GetOnlyUpperCaseWords(words);
+        foreach(string upper in GetOnlyUpperCaseWords(words))
+        {
+            Console.WriteLine(upper);
+        }
+
+
+
+
+        //List<string> words = new List<string>();
+        //Console.WriteLine($"Amount of items in list: {words.Count}"); // 0
+        //words.Add("Hello");
+        //Console.WriteLine($"Amount of items in list: {words.Count}"); // 1 
+        ////Note declaring type <string> means it can only hold strings 
+        ////Note that lists work the same in regards to the index as with arrays
+        //words[0] = "World!";
+        //Console.WriteLine($"Amount of items in list: {words.Count}"); // 1 
+        //Console.WriteLine($"Hello was replaced with: {words[0]}");
+
+        //List<string> anotherListOfStrings = new List<string> { "one", "two", "three" };
+        //foreach (string word in anotherListOfStrings)
+        //{
+        //    Console.WriteLine(word);
+        //} //again if no need for the index use foreach loop if index is needed can use for loop
+
+        ////Remove("What you want to remove") 
+        ////Add("what you want to add")
+        ////RemoveAt(indexOfwhatToRemove)
+        ////IndexOf("thingyouarelookingfor") - will return -1 if not found in list
+        ////Contains("whatyouarelookingfor") - will return a boolean value
+        ////Clear() would clear the list. . .
+
+        //List<string> myList = new List<string>();
+        //myList.AddRange(new[] { "three", "four", "five","six","seven","eight" });
+        //Console.WriteLine($"Count of items in my list: {myList.Count}");
+        //Console.WriteLine("Items printed out in my list: ");
+        //int counter = 1;
+        //foreach (var item in myList)
+        //{
+        //    Console.WriteLine($"{counter++} {item}");
+        //}
+
+    }
+
+    void ForEachLoopPractice()
+    {
+        bool IsAnyWordLongerThan(int length, string[] words)
+        {
+            foreach  (string word in words)
+            {
+                if (word.Length > length)
+                    return true;
+            }
+            return false;
+        }
+
+        string[] words = { "aaa", "bbbb", "ccccc"};
+        Console.WriteLine(IsAnyWordLongerThan(5, words)); 
+
+        //string[] words = { "one", "two", "three", "four", "five" };
+
+        //foreach (string word in words)
+        //{
+        //    Console.WriteLine(word);
+        //}
+        ////note that with ForEach you will not have access to the index!
+    }
+
+
+
+
+    void TwoDimensionalChallengeUdemy()
+    {
+        int FindMax(int[,] numbers)
+        {
+            if(numbers.GetLength(0) == 0 || numbers.GetLength(1) == 0)
+            {
+                return -1;
+            }
+            
+            int maxNumber = int.MinValue;
+            for(int row = 0; row < numbers.GetLength(0); row++)
+            {
+                for(int col = 0; col < numbers.GetLength(1); col++)
+                {
+                    if (numbers[row,col] > maxNumber)
+                    {
+                        maxNumber = numbers[row,col];
+                    }
+                }
+            }
+            return maxNumber;
+        }
+
+        int[,] testCaseArray = {
+            { 3 , 5 },
+            { -1 , 12 },
+            { 4 , 0 }
+        };
+
+        Console.WriteLine($"Max number in the two dimensional array is: {FindMax(testCaseArray)}"); 
+    }
+
+
+
+
+
+    void MultiDimensionalArraysPractice()
+    {
+        //create a 2D array and initialize values
+        int[,] myTwoDimensionalArray = new int[3,4] {  
+            {5,4,7,3 },
+            {7,3,2,6 },
+            {5,3,7,3 }  //NOTE: first think of the 3 rows then create the 3x{} then add the 4 columns to each{}
+        }; // 3 rows and 4 columns
+           //myTwoDimensionalArray[0, 2] = 5; // index 0 in the row and index 2 in the column 
+           //Console.WriteLine(myTwoDimensionalArray[0,2]); //prints 5 
+           //lets rather initialize the 2D array 
+        Console.WriteLine($"2D array Length propery = {myTwoDimensionalArray.Length}"); //12 is returned as length !! all of it
+        //Console.WriteLine(myTwoDimensionalArray[0].Length); NOTE THIS DOES NOT WORK ON A 2D ARRAY !!!!!!
+        //you have to use the getLenght() method and pass it an index 
+
+        Console.WriteLine("LENGTH IN TWO DIMENSIONAL ARRAY");
+        Console.WriteLine($"Two dimensional array getLength(0) = {myTwoDimensionalArray.GetLength(0)}"); //ROW = 3
+        Console.WriteLine($"Two dimensional array getLength(1) = {myTwoDimensionalArray.GetLength(1)}"); //COLUMN = 4
+        //PRINT 2D ARRAY TO CONSOLE
+        Console.WriteLine("PRINT 2D ARRAY TO CONSOLE:");
+        for(int row = 0; row < myTwoDimensionalArray.GetLength(0); row++)
+        {
+            for(int col = 0; col < myTwoDimensionalArray.GetLength(1); col++)
+            {
+                Console.Write(myTwoDimensionalArray[row,col] + "\t"); //note syntax here!! 2D
+            }
+            Console.WriteLine();
+        }
+
+        //CREAET A JAGGED ARRAY and initialize values
+        int[][] myJaggedArray = {
+        new int[] { 5, 4, 7, 3 },
+        new int[] { 7, 3, 2, 6, 7, 4, 2, 4 }, //NOTE jagged do not have to be the same length 2D has to be! 
+        new int[] { 5, 3, 7, 3 }
+        };
+
+        //Console.WriteLine(myJaggedArray[1][6]); //prints 6 [row index 1][columns index 6]
+        Console.WriteLine($"Jagged array Length property = {myJaggedArray.Length}"); //This only returns 3 - the rows
+        Console.WriteLine($"Jagged array at index 1 Length property = {myJaggedArray[1].Length}");
+        //the above returns 8 the length of the selected index row
+
+        //LOOPING OVER THE JAGGED ARRAY 
+        Console.WriteLine("PRINT JAGGEDARRAY TO CONSOLE:");
+        for (int i = 0; i < myJaggedArray.Length; i++)
+        {
+            for (int j = 0; j < myJaggedArray[i].Length; j++)
+            {
+                Console.Write($"{myJaggedArray[i][j]} \t");
+            }
+            Console.WriteLine();
+        }
+    }
+
 
     void ArrayPractice()
     {
