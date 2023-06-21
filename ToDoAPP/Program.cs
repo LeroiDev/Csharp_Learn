@@ -56,7 +56,7 @@ internal class Program
     bool CheckForCorrectUserInput(string userInput)
     {
         Program program = new Program();
-        List<string> todoList = new List<string>();
+        List<string> todoList = new List<string>() { "Finish learning C#", "Focus on js and SQL second", "Learn the flutter framework" };
 
         switch (userInput.ToUpper())
         {
