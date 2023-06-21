@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\bin\Debug\net6.0\OOP_Caleb.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\bin\Debug\net6.0\OOP_Caleb.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\bin\Debug\net6.0\OOP_Caleb.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\bin\Debug\net6.0\OOP_Caleb.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\bin\Debug\net6.0\OOP_Caleb.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\refint\OOP_Caleb.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\OOP_Caleb.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOP_Caleb\obj\Debug\net6.0\ref\OOP_Caleb.dll

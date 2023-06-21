@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\bin\Debug\net6.0\3_ToDoAPP.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\bin\Debug\net6.0\3_ToDoAPP.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\bin\Debug\net6.0\3_ToDoAPP.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\bin\Debug\net6.0\3_ToDoAPP.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\bin\Debug\net6.0\3_ToDoAPP.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\refint\3_ToDoAPP.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\3_ToDoAPP.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\ToDoAPP\obj\Debug\net6.0\ref\3_ToDoAPP.dll
