@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_SimpleConsoleCalculator",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_ToDoAPP", "..\ToDoAPP\3_ToDoAPP.csproj", "{416CF368-ED70-4959-8E10-9AF5C4032FEA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_OOPSection", "..\OOPSection\4_OOPSection.csproj", "{1A7FFE00-6DEA-45DC-9FE7-1492265F6D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPSection_One", "..\OOPSection\OOPSection_One.csproj", "{1A7FFE00-6DEA-45DC-9FE7-1492265F6D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Caleb", "..\OOP_Caleb\OOP_Caleb.csproj", "{12641F90-AC9B-496B-99DF-407699F5F51C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Caleb", "..\OOP_Caleb\OOP_Caleb.csproj", "{12641F90-AC9B-496B-99DF-407699F5F51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Caleb_PartTwo", "..\OOP_Caleb_PartTwo\OOP_Caleb_PartTwo.csproj", "{22D00CBE-23A3-44B0-825A-AA51E54BE664}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_Caleb_PartTwo", "..\OOP_Caleb_PartTwo\OOP_Caleb_PartTwo.csproj", "{22D00CBE-23A3-44B0-825A-AA51E54BE664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

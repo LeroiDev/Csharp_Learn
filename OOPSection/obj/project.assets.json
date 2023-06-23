@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leroi\\Source\\GitHub\\Public_Repositories\\Csharp_Learn\\OOPSection\\4_OOPSection.csproj",
-      "projectName": "4_OOPSection",
-      "projectPath": "C:\\Users\\leroi\\Source\\GitHub\\Public_Repositories\\Csharp_Learn\\OOPSection\\4_OOPSection.csproj",
+      "projectUniqueName": "C:\\Users\\leroi\\Source\\GitHub\\Public_Repositories\\Csharp_Learn\\OOPSection\\OOPSection_One.csproj",
+      "projectName": "OOPSection_One",
+      "projectPath": "C:\\Users\\leroi\\Source\\GitHub\\Public_Repositories\\Csharp_Learn\\OOPSection\\OOPSection_One.csproj",
       "packagesPath": "C:\\Users\\leroi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\leroi\\Source\\GitHub\\Public_Repositories\\Csharp_Learn\\OOPSection\\obj\\",
       "projectStyle": "PackageReference",

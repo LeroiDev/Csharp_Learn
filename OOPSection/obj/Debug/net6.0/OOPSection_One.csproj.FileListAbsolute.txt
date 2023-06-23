@@ -1,0 +1,15 @@
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\bin\Debug\net6.0\OOPSection_One.exe
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\bin\Debug\net6.0\OOPSection_One.deps.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\bin\Debug\net6.0\OOPSection_One.runtimeconfig.json
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\bin\Debug\net6.0\OOPSection_One.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\bin\Debug\net6.0\OOPSection_One.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.csproj.AssemblyReference.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.AssemblyInfoInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.AssemblyInfo.cs
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.csproj.CoreCompileInputs.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\refint\OOPSection_One.dll
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.pdb
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\OOPSection_One.genruntimeconfig.cache
+C:\Users\leroi\Source\GitHub\Public_Repositories\Csharp_Learn\OOPSection\obj\Debug\net6.0\ref\OOPSection_One.dll
